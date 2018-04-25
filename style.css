@@ -1,0 +1,148 @@
+body {
+  background: #333;
+  color: #fff; }
+
+.navbar {
+  border-bottom: #00e8d6;
+  opacity: 0.8; }
+
+#home-section {
+  background: url("../img/graph.jpeg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px; }
+  #home-section .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px; }
+  #home-section .home-inner {
+    padding-top: 150px; }
+  #home-section .card-form {
+    opacity: 0.8; }
+  #home-section .fa {
+    color: #00e8d6;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px; }
+
+#home-heading {
+  background: #fff;
+  color: #333;
+  position: relative;
+  min-height: 200px; }
+
+#about-section {
+  background: #fff;
+  color: #333; }
+
+#services-section {
+  background: #fff;
+  color: #333; }
+
+.dark-overlay {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.7);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+#video-play {
+  position: relative;
+  min-height: 200px;
+  background: url("../img/media.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 0 -300px;
+  text-align: center;
+  color: #fff; }
+  #video-play a {
+    color: #fff; }
+  #video-play i {
+    color: #ff0000; }
+
+#main-footer {
+  background: #000;
+  color: #fff; }
+  #main-footer h3 {
+    color: #3498DB; }
+
+#about-header {
+  background: url("../img/aboutHeader.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px; }
+  #about-header .dark-overlay {
+    background-color: rgba(250, 250, 250, 0.3);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px; }
+  #about-header h3 {
+    text-align: center;
+    min-height: 300px;
+    padding-top: 500px;
+    font-weight: 400; }
+
+.details-inner {
+  padding-top: 50px; }
+
+.card-form {
+  opacity: 0.8; }
+
+.fa {
+  color: #00e8d6;
+  background: #333;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
+
+#start-section {
+  margin-top: 50px; }
+
+#about-footer {
+  background: #000;
+  color: #fff; }
+  #about-footer h3 {
+    color: #3498DB; }
+
+#services-header {
+  background: url("../img/serviceplan.jpeg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px; }
+  #services-header .dark-overlay {
+    background-color: rgba(250, 250, 250, 0.3);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px; }
+  #services-header h3 {
+    text-align: center;
+    min-height: 300px;
+    padding-top: 500px;
+    font-weight: 400; }
+
+#contactpage-header {
+  background: url("../img/contactheader.jpeg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px; }
+  #contactpage-header .dark-overlay {
+    background-color: rgba(250, 250, 250, 0.3);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px; }
+  #contactpage-header h3 {
+    text-align: center;
+    min-height: 300px;
+    padding-top: 500px;
+    font-weight: 400; }
